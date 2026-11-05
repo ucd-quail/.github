@@ -1,3 +1,0 @@
-# QUAIL
-
-Welcome to QUAIL!!!
