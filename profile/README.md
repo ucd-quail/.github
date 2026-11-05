@@ -1,4 +1,3 @@
-## QUAIL
 <img alt="image" src="https://ucd-quail.github.io/assets/images/quail_whitebg.jpeg" />
 
 The **QU**antum **A**lgorithmic **I**ntelligence **L**aboratory (QUAIL) is a research lab at University College Dublin focused on three main research areas:
